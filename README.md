@@ -5,4 +5,4 @@ Uses gemini-2.5-flash as an NLP.
 Requirements-
 Gemini API
 ElevenLabs API
-You have to install FFMPEG software provided by elevenlabs to use text to speech feature.
+You have to install FFMPEG software provided by elevenlabs to use text to speech feature:-
