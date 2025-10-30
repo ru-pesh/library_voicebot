@@ -1,0 +1,111 @@
+Title,Author,Genre,Status,Section,Shelf
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,Available,Sci-Fi,S1
+To Kill a Mockingbird,Harper Lee,Fiction,Checked Out,General Fiction,G1
+1984,George Orwell,Dystopian,Available,Sci-Fi,S2
+The Great Gatsby,F. Scott Fitzgerald,Fiction,Available,General Fiction,G1
+Dune,Frank Herbert,Science Fiction,Available,Sci-Fi,S1
+The Catcher in the Rye,J.D. Salinger,Fiction,Checked Out,General Fiction,G1
+Pride and Prejudice,Jane Austen,Romance,Available,Romance,R1
+Project Hail Mary,Andy Weir,Science Fiction,Available,Sci-Fi,S1
+The Lord of the Rings,J.R.R. Tolkien,Fantasy,Available,Fantasy,F1
+The Name of the Wind,Patrick Rothfuss,Fantasy,Checked Out,Fantasy,F1
+A Game of Thrones,George R.R. Martin,Fantasy,Available,Fantasy,F2
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,Mystery,Available,Mystery,M1
+Gone Girl,Gillian Flynn,Mystery,Available,Mystery,M1
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,Non-Fiction,Available,Non-Fiction,N1
+Atomic Habits,James Clear,Self-Help,Available,Self-Help,H1
+Moby Dick,Herman Melville,Classics,Available,Classics,C1
+War and Peace,Leo Tolstoy,Classics,Checked Out,Classics,C1
+Steve Jobs,Walter Isaacson,Biography,Available,Biography,B1
+The Shining,Stephen King,Horror,Available,Horror,H2
+Educated,Tara Westover,Memoir,Available,Biography,B1
+The Hobbit,J.R.R. Tolkien,Fantasy,Available,Fantasy,F1
+Brave New World,Aldous Huxley,Dystopian,Available,Sci-Fi,S2
+The Alchemist,Paulo Coelho,Fantasy,Available,General Fiction,G2
+Wuthering Heights,Emily Brontë,Classics,Available,Classics,C1
+Jane Eyre,Charlotte Brontë,Classics,Available,Classics,C2
+Frankenstein,Mary Shelley,Horror,Checked Out,Classics,C2
+The Road,Cormac McCarthy,Dystopian,Available,General Fiction,G2
+Where the Crawdads Sing,Delia Owens,Fiction,Available,General Fiction,G2
+Becoming,Michelle Obama,Memoir,Available,Biography,B1
+The Martian,Andy Weir,Science Fiction,Checked Out,Sci-Fi,S1
+The Silent Patient,Alex Michaelides,Mystery,Available,Mystery,M2
+The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,Available,Mystery,M2
+The Da Vinci Code,Dan Brown,Mystery,Checked Out,Mystery,M2
+A Brief History of Time,Stephen Hawking,Non-Fiction,Available,Non-Fiction,N1
+The Body Keeps the Score,Bessel van der Kolk,Non-Fiction,Available,Self-Help,H1
+Thinking, Fast and Slow,Daniel Kahneman,Non-Fiction,Available,Non-Fiction,N1
+Freakonomics,Steven D. Levitt,Non-Fiction,Checked Out,Non-Fiction,N2
+Outliers,Malcolm Gladwell,Non-Fiction,Available,Non-Fiction,N2
+The Tipping Point,Malcolm Gladwell,Non-Fiction,Available,Non-Fiction,N2
+David and Goliath,Malcolm Gladwell,Non-Fiction,Available,Non-Fiction,N2
+Good to Great,Jim Collins,Business,Available,Business,B2
+The Lean Startup,Eric Ries,Business,Available,Business,B2
+Zero to One,Peter Thiel,Business,Checked Out,Business,B2
+The Intelligent Investor,Benjamin Graham,Business,Available,Business,B2
+Rich Dad Poor Dad,Robert T. Kiyosaki,Business,Available,Self-Help,H1
+How to Win Friends and Influence People,Dale Carnegie,Self-Help,Available,Self-Help,H1
+The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help,Available,Self-Help,H1
+Man's Search for Meaning,Viktor E. Frankl,Memoir,Checked Out,Biography,B1
+The Diary of a Young Girl,Anne Frank,Memoir,Available,Biography,B1
+Walden,Henry David Thoreau,Classics,Available,Classics,C2
+Anna Karenina,Leo Tolstoy,Classics,Available,Classics,C1
+Crime and Punishment,Fyodor Dostoevsky,Classics,Available,Classics,C2
+The Brothers Karamazov,Fyodor Dostoevsky,Classics,Checked Out,Classics,C2
+The Stranger,Albert Camus,Classics,Available,Classics,C3
+The Plague,Albert Camus,Classics,Available,Classics,C3
+The Picture of Dorian Gray,Oscar Wilde,Classics,Available,Classics,C3
+Dracula,Bram Stoker,Horror,Available,Horror,H2
+It,Stephen King,Horror,Checked Out,Horror,H2
+Pet Sematary,Stephen King,Horror,Available,Horror,H2
+Misery,Stephen King,Horror,Available,Horror,H2
+The Stand,Stephen King,Horror,Available,Horror,H2
+The Handmaid's Tale,Margaret Atwood,Dystopian,Available,Sci-Fi,S2
+The Hunger Games,Suzanne Collins,Dystopian,Available,Young Adult,Y1
+Divergent,Veronica Roth,Dystopian,Checked Out,Young Adult,Y1
+The Maze Runner,James Dashner,Dystopian,Available,Young Adult,Y1
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,Available,Fantasy,F2
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Fantasy,Available,Fantasy,F2
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Fantasy,Checked Out,Fantasy,F2
+Harry Potter and the Goblet of Fire,J.K. Rowling,Fantasy,Available,Fantasy,F3
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Fantasy,Available,Fantasy,F3
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Fantasy,Available,Fantasy,F3
+Harry Potter and the Deathly Hallows,J.K. Rowling,Fantasy,Available,Fantasy,F3
+The Fault in Our Stars,John Green,Young Adult,Available,Young Adult,Y2
+Looking for Alaska,John Green,Young Adult,Available,Young Adult,Y2
+Paper Towns,John Green,Young Adult,Checked Out,Young Adult,Y2
+Turtles All the Way Down,John Green,Young Adult,Available,Young adult,Y2
+The Book Thief,Markus Zusak,Fiction,Available,General Fiction,G3
+All the Light We Cannot See,Anthony Doerr,Fiction,Available,General Fiction,G3
+The Nightingale,Kristin Hannah,Fiction,Checked Out,General Fiction,G3
+The Kite Runner,Khaled Hosseini,Fiction,Available,General Fiction,G3
+A Thousand Splendid Suns,Khaled Hosseini,Fiction,Available,General Fiction,G3
+Life of Pi,Yann Martel,Fantasy,Available,General Fiction,G4
+The Poisonwood Bible,Barbara Kingsolver,Fiction,Available,General Fiction,G4
+Beloved,Toni Morrison,Fiction,Checked Out,General Fiction,G4
+The Color Purple,Alice Walker,Fiction,Available,General Fiction,G4
+The Joy Luck Club,Amy Tan,Fiction,Available,General Fiction,G4
+Little Fires Everywhere,Celeste Ng,Fiction,Available,General Fiction,G5
+Big Little Lies,Liane Moriarty,Mystery,Available,Mystery,M3
+The Husband's Secret,Liane Moriarty,Mystery,Available,Mystery,M3
+Sharp Objects,Gillian Flynn,Mystery,Available,Mystery,M1
+Dark Places,Gillian Flynn,Mystery,Checked Out,Mystery,M1
+The Woman in Cabin 10,Ruth Ware,Mystery,Available,Mystery,M3
+The Girl on the Train,Paula Hawkins,Mystery,Available,Mystery,M3
+Circe,Madeline Miller,Fantasy,Available,Fantasy,F4
+The Song of Achilles,Madeline Miller,Fantasy,Checked Out,Fantasy,F4
+Norse Mythology,Neil Gaiman,Fantasy,Available,Fantasy,F4
+American Gods,Neil Gaiman,Fantasy,Available,Fantasy,F4
+Good Omens,Neil Gaiman & Terry Pratchett,Fantasy,Available,Fantasy,F4
+Neverwhere,Neil Gaiman,Fantasy,Available,Fantasy,F4
+The Ocean at the End of the Lane,Neil Gaiman,Fantasy,Checked Out,Fantasy,F4
+Stardust,Neil Gaiman,Fantasy,Available,Fantasy,F4
+The Subtle Art of Not Giving a F*ck,Mark Manson,Self-Help,Available,Self-Help,H1
+Girl, Wash Your Face,Rachel Hollis,Self-Help,Available,Self-Help,H1
+The Power of Now,Eckhart Tolle,Self-Help,Checked Out,Self-Help,H1
+You Are a Badass,Jen Sincero,Self-Help,Available,Self-Help,H1
+The Four Agreements,Don Miguel Ruiz,Self-Help,Available,Self-Help,H1
+Eat, Pray, Love,Elizabeth Gilbert,Memoir,Available,Biography,B1
+Wild,Cheryl Strayed,Memoir,Available,Biography,B1
+Bossypants,Tina Fey,Memoir,Checked Out,Biography,B1
+Me Talk Pretty One Day,David Sedaris,Memoir,Available,Biography,B1
